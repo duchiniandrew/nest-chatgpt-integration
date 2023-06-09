@@ -1,0 +1,17 @@
+{
+    "schema_version": "v1",
+    "name_for_human": "Plugin Test for Plank",
+    "name_for_model": "plankPlugin",
+    "description_for_human": "This is a test developed to test how chat GPT plugin works and how to add then to our applications.",
+    "description_for_model": "Plugin test to check how to create and add plugin for applications.",
+    "auth": {
+        "type": "none"
+    },
+    "api": {
+        "type": "openapi",
+        "url": "http://localhost:3333/openapi.yaml"
+    },
+    "logo_url": "http://localhost:3333/logo.png",
+    "contact_email": "duchiniandrew@gmail.com",
+    "legal_info_url": "http://www.example.com/legal"
+}
